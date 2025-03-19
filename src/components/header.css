@@ -1,0 +1,24 @@
+#header {
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+    background-color: aliceblue;
+}
+
+#title {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    justify-content: center;
+    width: auto;
+}
+
+
+#linksList {
+    display: flex;
+    flex-direction: row;
+    gap: 30px;
+    list-style-type: none;
+    margin-bottom: 0;
+    padding-left: 0;
+}
